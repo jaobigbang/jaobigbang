@@ -1,4 +1,4 @@
-![](https://github.com/jaobigbang/phongsapak/blob/main/banner_.png)
+![](https://github.com/jaobigbang/jaobigbang/blob/main/banner_.png)
 
 I'm a 2nd year student Faculty of Computer Science Thammasat University, Thailand. I'm now interested in web development and data science.
 
