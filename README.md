@@ -11,4 +11,4 @@ I'm a 2nd year student Faculty of Computer Science Thammasat University, Thailan
 
 
 ## Contact
-[<img src="https://img.icons8.com/doodle/30/000000/instagram--v1.png"/>](https://www.instagram.com/jaobigbang__)  [<img src="https://img.icons8.com/doodle/30/000000/reddit--v4.png"/>](www.reddit.com/user/jaobigbang-dev)  
+[<img src="https://img.icons8.com/doodle/30/000000/instagram--v1.png"/>](https://www.instagram.com/jaobigbang__) 
