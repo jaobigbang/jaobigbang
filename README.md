@@ -4,8 +4,6 @@ I'm a 2nd year student Faculty of Computer Science Thammasat University, Thailan
 
 
 ## Skills and Tools 
- * <img src="https://img.icons8.com/color/30/000000/python--v1.png"/> Python <br>
- * <img src="https://img.icons8.com/color/30/000000/c-plus-plus-logo.png"/> C++ <br>
  * <img src="https://img.icons8.com/color/30/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/30/000000/css3.png"/><img src="https://img.icons8.com/color/30/000000/javascript--v1.png"/> HTML, CSS, Javascript <br>
  * <img src="https://img.icons8.com/officel/30/000000/react.png"/> React <br>
 
